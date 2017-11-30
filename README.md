@@ -1,0 +1,2 @@
+# PrzeciazenieOperatora
+Test
